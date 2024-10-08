@@ -8,14 +8,14 @@ import "./App.css"
 
 const App = () => {
   return <div className="container">
-    <Listadonombres/>
+    {/* <Listadonombres/>
     <hr/>
     <Contador/>
-    <hr/>
+    <hr/>*/}
     <Pokemones/>
-    <hr/>
+    {/* <hr/>
     <Referencia/>
-    <hr/>
+    <hr/> */}
   
   </div>
 }
